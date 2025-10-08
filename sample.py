@@ -1,2 +1,5 @@
 print("hoge")
 print("Hello World!")
+print("aho")
+print("woo!")
+print("こんにちは")
